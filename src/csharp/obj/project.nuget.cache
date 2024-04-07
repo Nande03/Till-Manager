@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n5O6PHNtThuEu5BJlSRx0XUf+agTaxvONYZwwbjDIoj9XmeOfpatbXibE0xG2aG1b71Nalgu4PkN2N5zIuqDNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nande\\OneDrive\\Desktop\\Till Manager\\src\\csharp\\csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nande\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

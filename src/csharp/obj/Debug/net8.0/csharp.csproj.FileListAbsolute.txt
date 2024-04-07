@@ -1,0 +1,17 @@
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\bin\Debug\net8.0\csharp.exe
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\bin\Debug\net8.0\csharp.deps.json
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\bin\Debug\net8.0\csharp.runtimeconfig.json
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\bin\Debug\net8.0\csharp.dll
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\bin\Debug\net8.0\csharp.pdb
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.csproj.AssemblyReference.cache
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.AssemblyInfoInputs.cache
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.AssemblyInfo.cs
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.csproj.Up2Date
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.dll
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\refint\csharp.dll
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.pdb
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\csharp.genruntimeconfig.cache
+C:\Users\nande\OneDrive\Desktop\Till Manager\src\csharp\obj\Debug\net8.0\ref\csharp.dll
